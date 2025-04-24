@@ -25,8 +25,10 @@
 
 ### Asynchronous & Caching
 
-[![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)]()
+[![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)](https://docs.celeryq.dev/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Flower](https://img.shields.io/badge/Flower_Celery_Monitoring-348613?logo=flower&logoColor=white)](https://github.com/mher/flower)
 
 ### Frontend Development
 
